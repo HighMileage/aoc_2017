@@ -3,9 +3,10 @@
 Coding puzzles
 
 | Day | Rating |
+|-----|--------|
 | [Day 01](http://adventofcode.com/2017/day/01) | 🌶 |
 | [Day 02](http://adventofcode.com/2017/day/02) | 🌶 |
-| [Day 03](http://adventofcode.com/2017/day/03) | 🌶🌶  🌶 |
+| [Day 03](http://adventofcode.com/2017/day/03) | 🌶🌶🌶 |
 | [Day 04](http://adventofcode.com/2017/day/04) | 🌶 |
 | [Day 05](http://adventofcode.com/2017/day/05) | 🌶 |
 | [Day 06](http://adventofcode.com/2017/day/06) | 🌶 |
