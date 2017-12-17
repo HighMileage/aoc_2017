@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
+from collections import deque
 import sys
 
+JUMP=369
 
-def parse_file(input_file):
-    with open(input_file, 'r') as input_file:
-        directions = [direction.strip() for direction in input_file.read().split(',')]
-    return directions
-
-
-def main(input_file):
+def main(steps):
+    buffy = [0]
+    index = 0
+    for step in range(1, steps + 1):
+        index += 1
+        buffy = buffy[:index] + [step] + buffy[index:]
+        index = (index + JUMP) % len(buffy)
+    print(buffy[buffy.index(2017) + 1])
 
 if __name__ == '__main__':
-    input_file = sys.argv[1]
-    main(input_file)
+    steps = int(sys.argv[1])
+    main(steps)
