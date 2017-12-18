@@ -21,4 +21,5 @@ Coding puzzles
 | [Day 15](http://adventofcode.com/2017/day/15) | 🌶 |
 | [Day 16](http://adventofcode.com/2017/day/16) | 🌶🌶 |
 | [Day 17](http://adventofcode.com/2017/day/17) | 🌶 |
+| [Day 18](http://adventofcode.com/2017/day/18) | 🌶 |
 | ---- |
