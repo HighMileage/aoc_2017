@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# To run:
+# ./day17.py 2017
 import sys
 
 JUMP=369

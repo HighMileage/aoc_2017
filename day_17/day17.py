@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# To run:
+# ./day17_2.py 50000000
 from collections import deque
 import sys
 
