@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-from collections import defaultdict
 
 
 def parse_file(input_file):
